@@ -1,2 +1,4 @@
-# notes
-Brad's Notes
+# Brad's Notes
+
+- Terminal
+- GitHub
