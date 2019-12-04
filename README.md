@@ -1,6 +1,6 @@
 # Brad's Notes
 
-- [bash_profile & environment variables](https://github.com/bradsorour/notes/wiki/bash_profile-&-environment-variables)
+- [~/.bash_profile & environment variables](https://github.com/bradsorour/notes/wiki/bash_profile-&-environment-variables)
 - [Docker on localhost](https://github.com/bradsorour/notes/wiki/Docker-on-localhost)
 - [Docker: Deploying with gradle](https://github.com/bradsorour/notes/wiki/Docker:-Deploying-with-gradle)
 - [GitHub & .gitignore](https://github.com/bradsorour/notes/wiki/GitHub-&-.gitignore)
