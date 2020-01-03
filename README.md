@@ -6,6 +6,7 @@
 - [GitHub & .gitignore](https://github.com/bradsorour/notes/wiki/GitHub-&-.gitignore)
 - [GitHub & branches](https://github.com/bradsorour/notes/wiki/GitHub-&-branches)
 - [GitHub & Demo](https://github.com/bradsorour/notes/wiki/GitHub-&-Demo)
+- [GitHub & fork vs clone](https://github.com/bradsorour/notes/wiki/GitHub-&-fork-vs-clone)
 - [GitHub & hmcts](https://github.com/bradsorour/notes/wiki/GitHub-&-hmcts)
 - [GitHub & reflog](https://github.com/bradsorour/notes/wiki/GitHub-&-reflog)
 - [GitHub & SSH](https://github.com/bradsorour/notes/wiki/GitHub-&-SSH)
