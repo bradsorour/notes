@@ -4,7 +4,6 @@
 
 - [Git & .gitignore](https://github.com/bradsorour/notes/wiki/Git-&-.gitignore)
 - [Git & branches](https://github.com/bradsorour/notes/wiki/Git-&-branches)
-- [Git & Demo](https://github.com/bradsorour/notes/wiki/Git-&-Demo)
 - [Git & fork vs clone](https://github.com/bradsorour/notes/wiki/Git-&-fork-vs-clone)
 - [Git & HMCTS](https://github.com/bradsorour/notes/wiki/Git-&-HMCTS)
 - [Git & reflog](https://github.com/bradsorour/notes/wiki/Git-&-reflog)
@@ -26,3 +25,5 @@
 - [Junior Dev interview questions](https://github.com/bradsorour/notes/wiki/Junior-Developer-Interview-Questions)
 - [Kubernetes](https://github.com/bradsorour/notes/wiki/Kubernetes)
 - [Google Cloud Platform](https://github.com/bradsorour/notes/wiki/Google-Cloud-Platform)
+
+### Python
