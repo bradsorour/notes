@@ -4,6 +4,7 @@
 
 - [Git & .gitignore](https://github.com/bradsorour/notes/wiki/Git-&-.gitignore)
 - [Git & branches](https://github.com/bradsorour/notes/wiki/Git-&-branches)
+- [Git & stash](https://github.com/bradsorour/notes/wiki/Git-&-stash)
 - [Git & fork vs clone](https://github.com/bradsorour/notes/wiki/Git-&-fork-vs-clone)
 - [Git & HMCTS](https://github.com/bradsorour/notes/wiki/Git-&-HMCTS)
 - [Git & reflog](https://github.com/bradsorour/notes/wiki/Git-&-reflog)
