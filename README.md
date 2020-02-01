@@ -2,14 +2,14 @@
 
 ### Git
 
-- [GitHub & .gitignore](https://github.com/bradsorour/notes/wiki/GitHub-&-.gitignore)
-- [GitHub & branches](https://github.com/bradsorour/notes/wiki/GitHub-&-branches)
-- [GitHub & Demo](https://github.com/bradsorour/notes/wiki/GitHub-&-Demo)
-- [GitHub & fork vs clone](https://github.com/bradsorour/notes/wiki/GitHub-&-fork-vs-clone)
-- [GitHub & hmcts](https://github.com/bradsorour/notes/wiki/GitHub-&-hmcts)
-- [GitHub & reflog](https://github.com/bradsorour/notes/wiki/GitHub-&-reflog)
+- [Git & .gitignore](https://github.com/bradsorour/notes/wiki/GitHub-&-.gitignore)
+- [Git & branches](https://github.com/bradsorour/notes/wiki/GitHub-&-branches)
+- [Git & Demo](https://github.com/bradsorour/notes/wiki/GitHub-&-Demo)
+- [Git & fork vs clone](https://github.com/bradsorour/notes/wiki/GitHub-&-fork-vs-clone)
+- [Git & HMCTS](https://github.com/bradsorour/notes/wiki/GitHub-&-hmcts)
+- [Git & reflog](https://github.com/bradsorour/notes/wiki/GitHub-&-reflog)
 - [GitHub & SSH](https://github.com/bradsorour/notes/wiki/GitHub-&-SSH)
-- [GitHub & terminal](https://github.com/bradsorour/notes/wiki/GitHub-&-terminal)
+- [Git & terminal](https://github.com/bradsorour/notes/wiki/GitHub-&-terminal)
 
 ### Docker
 
