@@ -28,3 +28,5 @@
 - [Google Cloud Platform](https://github.com/bradsorour/notes/wiki/Google-Cloud-Platform)
 
 ### Python
+
+- [Python & VS Code](https://github.com/bradsorour/notes/wiki/Python-&-Visual-Studio-Code-(Mac))
