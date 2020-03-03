@@ -13,6 +13,7 @@
 
 ### Docker
 
+- [Docker commands](https://github.com/bradsorour/notes/wiki/Docker-commands)
 - [Docker on localhost](https://github.com/bradsorour/notes/wiki/Docker-on-localhost)
 - [Docker: Deploying with gradle](https://github.com/bradsorour/notes/wiki/Docker:-Deploying-with-gradle)
 
