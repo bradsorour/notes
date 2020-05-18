@@ -31,3 +31,7 @@
 ### Python
 
 - [Python & VS Code](https://github.com/bradsorour/notes/wiki/Python-&-Visual-Studio-Code-(Mac))
+
+### Deployment
+
+- [Python & VS Code](https://github.com/bradsorour/notes/wiki/Python-&-Visual-Studio-Code-(Mac))
