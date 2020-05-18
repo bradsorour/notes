@@ -34,4 +34,4 @@
 
 ### Deployment
 
-- [Python & VS Code](https://github.com/bradsorour/notes/wiki/Python-&-Visual-Studio-Code-(Mac))
+- [Production deployment](https://github.com/bradsorour/notes/wiki/Production-deployment)
